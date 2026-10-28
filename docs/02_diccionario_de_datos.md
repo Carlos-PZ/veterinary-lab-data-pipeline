@@ -1,4 +1,5 @@
 # Diccionario de Datos (Modelo Analítico)
+![Esquema Estrella del Modelo Analítico](img/esquema_estrella.png)
 
 Este documento describe las variables seleccionadas del esquema estrella para el análisis de volumen de ventas.
 
